@@ -20,7 +20,10 @@ a {
 a:hover {
   color: #6633ff;
 }
-
+/*SELECTED NAV LINKS */
+a.selected{
+	color: #fff;
+}
 /* Section Styles */
 
 .main-nav {
